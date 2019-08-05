@@ -1,2 +1,2 @@
 # javascript2
-Javascript1 homework for Social Hackers Academy
+Javascript2 homework for Social Hackers Academy
